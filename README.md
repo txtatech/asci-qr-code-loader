@@ -1,7 +1,7 @@
 # ascii-qr-code-loader
 A simple webpage that loads an ASCII QR-Code, extracts the JavaScript encoded in it and then executes the Javascript.
 
-# ASCII Art Test
+# ASCII Art Test (index.html)
 
 This is a simple HTML page that contains an ASCII art QR-Code that is encoded as JavaScript code that gets executed. The page also includes some CSS styles to format the art and make it visible.
 
