@@ -3,6 +3,8 @@ A simple webpage that loads an ASCII QR-Code, extracts the JavaScript encoded in
 
 # ASCII Art Test (index.html)
 
+**Note:** This is very simillar to the [static](https://github.com/txtatech/static) project.
+
 This is a simple HTML page that contains an ASCII art QR-Code that is encoded as JavaScript code that gets executed. The page also includes some CSS styles to format the art and make it visible.
 
 ## HTML Structure
