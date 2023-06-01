@@ -19,7 +19,7 @@ The JavaScript code within the `pre` element will be executed when the page load
 
 To use this HTML page, simply open it in a web browser. The ASCII art will be displayed, and the JavaScript code from within the QR-Code will be executed.
 
-If it does not load the code, refresh the page and check the Developer Tools console for the output.
+If it does not load the code, refresh the page and check the Developer Tools Console for the output.
 
 You should see that it starts (or attempts to start) a service-worker but fails because it is set to null. (Hence the 'Node' error)
 Assigning the worker to null was done intentionally for security purposes.
