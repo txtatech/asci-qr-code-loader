@@ -1,9 +1,13 @@
 # ascii-qr-code-loader
 A simple webpage that loads an ASCII QR-Code, extracts the JavaScript encoded in it and then executes the Javascript.
 
-# ASCII Art Test (index.html)
+**Note 1:** This is very simillar to the [static](https://github.com/txtatech/static) project.
 
-**Note:** This is very simillar to the [static](https://github.com/txtatech/static) project.
+**Note 2:** [Extra ASCII QR-Codes](https://github.com/txtatech/ascii-qr-code-loader/tree/main/Extra-ASCII-QR-Codes)
+These QR-Codes contain the same of those found in the [static](https://github.com/txtatech/static) project but are in ASCII form.
+In theory they should accomodate loading the page (and its content) into the browser's memory, the cache, the DOM and as a binary string.
+
+# ASCII Art Test (index.html)
 
 This is a simple HTML page that contains an ASCII art QR-Code that is encoded as JavaScript code that gets executed. The page also includes some CSS styles to format the art and make it visible.
 
@@ -32,4 +36,4 @@ I think the ASCII art can be made transparent (so it is not visible on the page)
 
 **Important Note:**
 
-The spacing around the ASCII QR-Code is necessary for the reader to decode it properly. However you can add more ASCII QR-Codes directly below the first one as long as they all have the same afore-mentioned spacing. 
+The spacing around the ASCII QR-Code is necessary for the reader to decode it properly. However you can add more ASCII QR-Codes directly below the first one as long as they all have the same afore-mentioned spacing.
