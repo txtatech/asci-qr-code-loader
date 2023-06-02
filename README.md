@@ -8,7 +8,7 @@ These QR-Codes contain the same code as those found in the [static](https://gith
 In theory they should accommodate loading the page (and its content) into the browser's memory, the cache, the DOM and as a binary string.
 These files must be manually added to index.html to use them. Otherwise only the single QR-Code already found in index.html is loaded.
 
-**Note 3:** The [ASCII-Base64-source.txt](https://github.com/txtatech/ascii-qr-code-loader/blob/main/ASCII-Base64-source.txt) is a copy of the Base64 encoded text used in making the ASCII QR-codes. This file is not required but was included as an example of how the JavaScript is formatted pre-ASCII.
+**Note 3:** The [ASCII-Base64-source.txt](https://github.com/txtatech/ascii-qr-code-loader/blob/main/ASCII-Base64-source.txt) is a copy of the Base64 encoded text used in making the ASCII QR-codes. This file is not required but was included as an example of how the JavaScript is formatted prior to being converted into ASCII QR-Codes.
 
 # ASCII Art Test (index.html)
 
