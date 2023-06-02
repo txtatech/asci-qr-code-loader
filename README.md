@@ -26,6 +26,10 @@ If it does not load the code, refresh the page and check the Developer Tools Con
 You should see that it starts (or attempts to start) a service-worker but fails because it is set to null. (Hence the 'Node' error)
 Assigning the worker to null was done intentionally for security purposes.
 
+**Note:**
+
+I think the ASCII art can be made transparent (so it is not visible on the page) but I have not tinkered with that.
+
 **Important Note:**
 
 The spacing around the ASCII QR-Code is necessary for the reader to decode it properly. However you can add more ASCII QR-Codes directly below the first one as long as they all have the same afore-mentioned spacing. 
