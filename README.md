@@ -5,7 +5,7 @@ A simple webpage that loads an ASCII QR-Code, extracts the JavaScript encoded in
 
 **Note 2:** [Extra ASCII QR-Codes](https://github.com/txtatech/ascii-qr-code-loader/tree/main/Extra-ASCII-QR-Codes)
 These QR-Codes contain the same code as those found in the [static](https://github.com/txtatech/static) project but are in ASCII form.
-In theory they should accomodate loading the page (and its content) into the browser's memory, the cache, the DOM and as a binary string.
+In theory they should accommodate loading the page (and its content) into the browser's memory, the cache, the DOM and as a binary string.
 
 # ASCII Art Test (index.html)
 
