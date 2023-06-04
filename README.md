@@ -18,7 +18,7 @@ The [ASCII-Base64-source.txt](https://github.com/txtatech/ascii-qr-code-loader/b
 
 **Note 4:** 
 
-All JavaScript code loaded from the QR-Codes is stored in the DOM, in a Blob, in Memory and as a Binary String.
+All JavaScript code loaded from the QR-Codes is stored in the DOM, as a Blob, in Memory and as a Binary String.
 
 # ASCII Art Test (index.html)
 
