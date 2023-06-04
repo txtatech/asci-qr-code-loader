@@ -1,7 +1,7 @@
 # ascii-qr-code-loader
 A simple webpage that loads an ASCII QR-Code, extracts the JavaScript encoded in it and then executes the Javascript.
 
-**Note 1:** This is very simillar to the [static](https://github.com/txtatech/static) project.
+**Note 1:** This is very simillar to the [static](https://github.com/txtatech/static) project and is also used in the [forthttp](https://github.com/txtatech/forthttp) project.
 
 **Note 2:** [Extra ASCII QR-Codes](https://github.com/txtatech/ascii-qr-code-loader/tree/main/Extra-ASCII-QR-Codes)
 These QR-Codes contain the same code as those found in the [static](https://github.com/txtatech/static) project but are in ASCII form.
