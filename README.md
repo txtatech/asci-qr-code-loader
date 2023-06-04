@@ -3,6 +3,8 @@ A simple webpage that loads an ASCII QR-Code, extracts the JavaScript encoded in
 
 **Note 1:** This is very simillar to the [static](https://github.com/txtatech/static) project and is also used in the [forthttp](https://github.com/txtatech/forthttp) project.
 
+## **Note: All JavaScript code loaded from QR codes is stored in the DOM, in a Blob, in Memory and as a Binary String.**
+
 **Note 2:** [Extra ASCII QR-Codes](https://github.com/txtatech/ascii-qr-code-loader/tree/main/Extra-ASCII-QR-Codes)
 These QR-Codes contain the same code as those found in the [static](https://github.com/txtatech/static) project but are in ASCII form.
 In theory they should accommodate loading the page (and its content) into the browser's memory, the cache, the DOM and as a binary string.
